@@ -1,4 +1,4 @@
-# CT-GO-Rest-Automa-o
+# CT-GO-Rest-Automação
 <h1>Desafio - Curso de Formação para Quality Assurance (QA)</h1>
 
 <h4 align="center"> 
