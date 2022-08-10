@@ -16,7 +16,7 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 - [Postman](https://www.postman.com/)
 
 ### Desafio
-Planejar e automatizar todos os cenários de todos os recursos da API Go Rest (https://gorest.co.in/) no Postman:
+Planejar e automatizar todos os cenários de todos os recursos da API Go Rest (https://gorest.co.in/) no Postman: </br>
 Recursos:
 - users
 - posts
