@@ -22,7 +22,6 @@ Recursos:
 - posts
 - comments
 - todos
-
 A ideia é trabalhar com os GETS, POSTs, PUTs e PATCHs.
 
 É importante testar:
